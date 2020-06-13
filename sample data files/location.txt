@@ -1,0 +1,12 @@
+1
+Adana
+Turkey
+2
+Bayburt
+Turkey
+3
+Kutahya
+Turkey
+55
+Berlin
+Germany

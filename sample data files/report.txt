@@ -1,0 +1,63 @@
+
+Server ID=1
+Server City=Adana
+Server Country=Turkey
+Server Members=42352
+Server Cost=2000$
+Server Profit=4424$
+Server Speed=5GHZ
+Server Capacity=10TB
+
+Server ID=55
+Server City=Berlin
+Server Country=Germany
+Server Members=41424
+Server Cost=3030$
+Server Profit=8020$
+Server Speed=
+Server Capacity=
+
+Server ID=2
+Server City=Bayburt
+Server Country=Turkey
+Server Members=
+Server Cost=
+Server Profit=
+Server Speed=4.9GHZ
+Server Capacity=5TB
+
+Server ID=10
+Server City=
+Server Country=
+Server Members=55112
+Server Cost=2000$
+Server Profit=5000$
+Server Speed=4.3GHZ
+Server Capacity=20TB
+
+Server ID=3
+Server City=Kutahya
+Server Country=Turkey
+Server Members=
+Server Cost=
+Server Profit=
+Server Speed=
+Server Capacity=
+
+Server ID=4
+Server City=
+Server Country=
+Server Members=432
+Server Cost=400$
+Server Profit=500$
+Server Speed=
+Server Capacity=
+
+Server ID=5
+Server City=
+Server Country=
+Server Members=
+Server Cost=
+Server Profit=
+Server Speed=5.1GHZ
+Server Capacity=2TB
