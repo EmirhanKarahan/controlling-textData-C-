@@ -17,7 +17,7 @@ The menu program (menu.exe) controls all other 4 executable (.exe) files. Each a
 - Server technical properties 
 - Server cost and profits 
 - The other text (.TXT) file is Servers’ Report File which is an output file combining data from 3 data files of other modules. 
- 
+ ---------------------------------
 - SERVER ID, CITY, COUNTRY 
 - SERVER ID, SPEED, CAPACITY 
 - SERVER ID, # OF MEMBERS, COST, PROFIT 
