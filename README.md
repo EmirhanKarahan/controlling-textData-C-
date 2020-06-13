@@ -14,13 +14,13 @@ you can create empty data files by starting the menu.exe.
 
 The menu program (menu.exe) controls all other 4 executable (.exe) files. Each and every files are individual Visual C++ projects. There are 3 databases at 3 text (.txt) files including; 
 - Server locations 
--   Server technical properties 
--   Server cost and profits 
- - The other text (.TXT) file is Servers’ Report File which is an output file combining data from 3 data files of other modules. 
+- Server technical properties 
+- Server cost and profits 
+- The other text (.TXT) file is Servers’ Report File which is an output file combining data from 3 data files of other modules. 
  
-SERVER ID, CITY, COUNTRY 
-SERVER ID, SPEED, CAPACITY 
-SERVER ID, # OF MEMBERS, COST, PROFIT 
+- SERVER ID, CITY, COUNTRY 
+- SERVER ID, SPEED, CAPACITY 
+- SERVER ID, # OF MEMBERS, COST, PROFIT 
 
-Executable files will enable generating and reading related text (.txt) files. Fields in the data files (.txt) are shown in the graph above. 
+Executable files will enable generating and reading related text (.txt) files. Fields in the data files (.txt) are shown in the above. 
  
