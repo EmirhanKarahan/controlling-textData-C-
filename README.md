@@ -1,4 +1,4 @@
-# controlling-textData-C++
+# using-textDatas-C++
 
 Hi! It's a packet cpp program to generating and reading text datas, and also it allows us to combine different text datas into 1 text file.
 ## Set-up
