@@ -1,6 +1,6 @@
 # using-textDatas-C++
 
-Hi! It's a packet cpp program to generating and reading text datas, and also it allows us to combine different text datas into 1 text file.
+Hi! It's a packet cpp program to generate and read text datas, and also it allows us to combine different text datas into 1 text file.
 ## Set-up
 You can easily start by opening menu.exe or compile all the cpp files and follow the notes.
 >1-All .exe files must exist in the same place, and also their name 
